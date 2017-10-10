@@ -1,0 +1,25 @@
+html {
+	font-family: 'Indie Flower', cursive;
+	font-size: 4vmin;
+	background-color: aqua;
+}
+
+h1 {
+	color: deeppink;
+	font-size: 80px;
+	text-align: center;
+	text-shadow: 3px 3px 1px black;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+	max-width: 20%;
+	max-height: 20%;
+}
+
+p {
+	margin: 130px;
+	text-align: justify;
+}
+
